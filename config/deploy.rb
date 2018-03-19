@@ -1,15 +1,15 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.10.1"
 
-set :application, "demo"
-set :repo_url, "git@github.com:hari696/demo.git"
+set :application, "rails_deploy"
+set :repo_url, "git@github.com:hari696/rails_deploy.git"
 set :scm, :git
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
-# Default deploy_to directory is /var/www/demo
-set :deploy_to, "/var/www/demo"
+# Default deploy_to directory is /var/www/rails_deploy
+set :deploy_to, "/var/www/rails_deploy"
 
 # Default value for :format is :airbrussh.
 set :format, :pretty
