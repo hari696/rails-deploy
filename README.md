@@ -19,12 +19,6 @@ bundle install
 4. For more configurations [capistrano](https://github.com/capistrano/rails "capistrano").
 5. Change database names and username & password in `config/database.yml` file.
 
-## Deployed
-
-![Alt text](https://raw.githubusercontent.com/hari696/rails_deploy/master/public/deployed_successfully.png "Title")
-
-After successfull deployment you can this screen on your root Ip Address.
-
 ## Development
 
 For developing rails app follow offical [documentation](http://guides.rubyonrails.org/ "Rails Guides")
