@@ -7,7 +7,7 @@ Here you find a practice on how to create a rails app and deploy it on Remote Se
 ## Installation
 
 ```sh
-git clone https://github.com/hari696/rails_deploy.git
+git clone ssh/https remote url
 cd rails_deploy
 bundle install
 ```
